@@ -2,8 +2,6 @@ import math
 import time
 import os
 import numpy as np
-import IK as ik
-import trajectory_cubic as traj
 from mujoco_py import load_model_from_xml, MjSim, MjViewer
 import Lrmate_controller as lrc
 
