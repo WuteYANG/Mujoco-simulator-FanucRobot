@@ -3,7 +3,7 @@ import time
 import os
 import numpy as np
 from mujoco_py import load_model_from_xml, MjSim, MjViewer
-import Lrmate_controller as lrc
+import Lrmate_functions as lrc
 
 MODEL_XML = """
 <?xml version="1.0" encoding="utf-8"?>
