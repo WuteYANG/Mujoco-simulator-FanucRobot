@@ -1,0 +1,20 @@
+MuJoCo Pro Personal license activation key, number 73044, type 6.
+
+Issued to Liting Sun <li.983@osu.edu>.
+
+Expires June 25, 2021.
+
+This file activates MuJoCo Pro on a single computer with id:
+LINUX_A1KVAO_Q9BPHTIM10606D0SPTBX365
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+c00b76592e259e2e74b76182835195435106ff390888808818003f11bd1ac8f6
+38fd3586427290be72b6556d0537c254ac9c992709f32fa5ed2649b2c7efee2d
+afbb8b80d72974b96ebe45f3cedb94132f731a8a9947031cda07be4f0760773b
+9e5d75cd21716fd6e84c2b29868f8cd76efb6b49367e4c6ec585e069f6c4adb9
+8a4d65369025da81ac02074ba77cd14c755ba1521644c31eb8b2a05e84354d6a
+c7b22ee0a1b83a5f12345f3f95fffdcf6f0e6ebaf7a9a9bb9a1f651ed0a2f943
+43105a95e8db48cbe20b05ac6a92376ed0521e4187492f83d271b94fcfe65f25
+251872b0439127aaa9712591f51d318951384238a85e978d3d6916d0736054e4
